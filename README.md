@@ -27,6 +27,11 @@
   Enter your choice (1-5): 2
 
 ────────────────────────────────────────
+
+
+
+
+
   📋  YOUR TO-DO LIST
 ────────────────────────────────────────
   1. ✔  Yoga practice
@@ -199,5 +204,32 @@ Enter expense (or 'quit'): quit
 <img width="1433" height="957" alt="image" src="https://github.com/user-attachments/assets/7ce647b4-9db8-439e-a0ee-59b321b27fc0" />
 
 
+PROJECT 3 PASSWORD GENERATOR
+=======================================================
+   🔐 DECODELABS PASSWORD GENERATOR 🔐
+   Powered by secrets module — NIST 2024 compliant
+=======================================================
 
-👋 Goodbye! Keep building — DecodeLabs 🚀
+Enter password length (min 8, recommended 16+): 5
+❌  Minimum length is 8. NIST recommends 15+ for security.
+
+Enter password length (min 8, recommended 16+): 10
+Include special symbols? (!@#$...) [y/n]: y
+How many passwords to generate? [default: 1]: 1
+
+=======================================================
+   📊 Security Report
+   Pool Size  : 94 characters
+   Entropy    : 65.5 bits  🟢 STRONG
+=======================================================
+
+   🔑 Your Password:  #8P/59?c^c
+
+=======================================================
+   ✅ Generated using secrets module (NIST 2024 compliant)
+=======================================================
+PS C:\Users\sushm\OneDrive\Desktop\Decodelabs> 
+
+<img width="1497" height="672" alt="image" src="https://github.com/user-attachments/assets/2b8d64a6-bb26-40d3-a84a-24ca1cb714f8" />
+
+ 
