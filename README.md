@@ -154,8 +154,50 @@
 <img width="1455" height="811" alt="image" src="https://github.com/user-attachments/assets/106b3078-5dff-4600-8f9c-91cef9286d09" />
 
 
+# Project2 Expense Tracker Output
+
+==================================================
+   💰 DECODELABS EXPENSE TRACKER 💰
+   Track every rupee. Miss nothing.
+==================================================
+
+Enter expense amounts one by one.
+Type  'quit'  to stop and see your total.
+
+Enter expense (or 'quit'): 20000
+✅  Added ₹20000.00  |  Running Total: ₹20000.00
+
+Enter expense (or 'quit'): 5000
+✅  Added ₹5000.00  |  Running Total: ₹25000.00
+
+Enter expense (or 'quit'): 900
+✅  Added ₹900.00  |  Running Total: ₹25900.00
+
+Enter expense (or 'quit'): 9000
+✅  Added ₹9000.00  |  Running Total: ₹34900.00
+
+Enter expense (or 'quit'): 500
+✅  Added ₹500.00  |  Running Total: ₹35400.00
+
+Enter expense (or 'quit'): 70000
+✅  Added ₹70000.00  |  Running Total: ₹105400.00
+
+Enter expense (or 'quit'): quit
+
+📊 --- SESSION SUMMARY ---
+   Transaction 01  →  ₹20000.00
+   Transaction 02  →  ₹5000.00
+   Transaction 03  →  ₹900.00
+   Transaction 04  →  ₹9000.00
+   Transaction 05  →  ₹500.00
+   Transaction 06  →  ₹70000.00
+------------------------------
+   Total Spent   →  ₹105400.00
+   Transactions  →  6
+==================================================
+
+<img width="1433" height="957" alt="image" src="https://github.com/user-attachments/assets/7ce647b4-9db8-439e-a0ee-59b321b27fc0" />
 
 
-  Enter your choice (1-5): 5
 
 👋 Goodbye! Keep building — DecodeLabs 🚀
